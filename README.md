@@ -1,4 +1,4 @@
-# makeup-club
+# Makeup-club
 Makeup-club is a simple, free and open source E-commerce web store based on react js.
 
 ## Live demo
