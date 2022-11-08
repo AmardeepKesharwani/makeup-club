@@ -1,4 +1,3 @@
-
 # Makeup-club
 MakeupClub is React based E-commerce website where user can buy products of their use.
 
