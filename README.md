@@ -1,5 +1,5 @@
 # Makeup-club
-Makeup-club is a simple, free and open source E-commerce web store based on react js.
+MakeupClub is React based E-commerce website where user can buy products of their use.
 
 ## Live demo
 
